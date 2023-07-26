@@ -13,7 +13,7 @@
 #define LedPinBlue   2
 #define MAXTIMINGS	85
 #define DHTPIN		7
-int dht11_dat[5] = { 0, 0, 0, 0, 0 };
+int dht11_dat[5] = {0, 0, 0, 0, 0};
 
 // LCD Address
 #define ADDRESS 0x27
