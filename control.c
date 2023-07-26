@@ -6,6 +6,7 @@
 #include <string.h>
 #include <stdint.h>
 #include <mysql.h>
+
 #define uchar unsigned char
 #define LedPinRed    0
 #define LedPinGreen  1
